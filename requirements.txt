@@ -1,0 +1,8 @@
+requests
+sentence-transformers
+pypdf
+langchain-text-splitters
+pymilvus
+pathlib
+tensorflow
+tf-keras
