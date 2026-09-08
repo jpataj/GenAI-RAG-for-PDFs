@@ -5,8 +5,8 @@ from imports import ContextualRAG
 
 
 
-crag = ContextualRAG(database = 'NS_RAG', 
-          collection='NSGBU_POLICIES', 
+crag = ContextualRAG(database = 'PDF_RAG', 
+          collection='NIST', 
           recreate_collection=False,
           chunk_size=500,
           chunk_overlap=0
